@@ -4,10 +4,10 @@ Itens Pedidos: nome, cpf, endereço, idade, altura, telefone
 author: Victor D. C Cardoso
 """
 
-#Imports
+# Imports
 from time import sleep
 
-#Variaveis e execução
+# Variaveis e execução
 
 print("############################################")
 print('#          Ficha Formulario Brasil         #')
