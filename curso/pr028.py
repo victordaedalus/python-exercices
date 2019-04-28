@@ -1,0 +1,7 @@
+a = int(input('Digite o Primeiro Valor: '))
+b = int(input('Digite o Segundo Valor: '))
+c = int(input('Digite o Terceiro Valor: '))
+final = (a ** 2) + (b ** 2) + (c ** 2)
+print('{}² + {}² + {}² = X'.format(a, b, c))
+print('{} + {} + {} = X'.format((a ** 2), (b ** 2), (c ** 2)))
+print('X = {}'.format(final))

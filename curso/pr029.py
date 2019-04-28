@@ -1,0 +1,10 @@
+print('Digite a Primeira Nota:')
+var1 = float(input())
+print('Digite a Segunda Nota:')
+var2 = float(input())
+print('Digite a Terceira Nota: ')
+var3 = float(input())
+print('Digite a Quarta Nota: ')
+var4 = float(input())
+media = (var1 + var2 + var3 + var4) / 4
+print('A Média é de {}'.format(media))
