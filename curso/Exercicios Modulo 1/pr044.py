@@ -1,0 +1,6 @@
+print('Qual a altura de cada degrau?')
+degrau = float(input())
+print('Qual a altura que deseja alcançar?')
+alt = float(input())
+degr = int(alt / degrau)
+print('Ele necessita subir {} degraus'.format(degr))
