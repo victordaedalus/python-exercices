@@ -1,5 +1,5 @@
 """
-Contador de Numeros que Salva a quantidades de numeros, 
+Contador de Numeros que Salva a quantidades de numeros,
 e quantas vezes esse mesmo numero apareceu.
 
 author: ghostborn67
@@ -20,4 +20,4 @@ for i in range(contador):
     elif contador_local == maior:
         repeticao += 1
 
-print("""O Maior Numero é {}, e ele apareceu {} vezes""".format(maior, repeticao))
+print(f'O Maior Numero é {maior}, e ele apareceu {repeticao} vezes')

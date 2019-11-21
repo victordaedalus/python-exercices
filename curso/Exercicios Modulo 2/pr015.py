@@ -8,12 +8,12 @@ def semana(dia):
         6: 'Sabado',
         7: 'Domingo'
     }
-    print('O dia da semana é {}'.format(dias[dia]))
+    print(f'O dia da semana é {dias[dia]}')
 
 
-print('Digite um numero de 1 a 8:')
+print('Digite um numero de 1 a 7:')
 number = int(input('> '))
-if 1 <= number <= 8:
+if number <= 7:
     semana(number)
 else:
     print('Numero inválido')

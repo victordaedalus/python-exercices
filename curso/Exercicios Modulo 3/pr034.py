@@ -20,8 +20,7 @@ while True:
                                     if num % 9 == 0:
                                         if num % 10 == 0:
                                             print(
-                                                '{} é o numero escolhido.'
-                                                .format(num))
+                                                'f{num} é o numero escolhido.')
                                             break
 
     print('{} não é.'.format(num))
