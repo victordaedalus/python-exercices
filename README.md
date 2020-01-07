@@ -12,4 +12,10 @@ por mais que ja tenha escrito muito codigo anteriormente, estou fazendo
 uma atualização com meus codigos novos do curso de python 3.7, 
 exercicios sobre controle de decisão.</p>
 
+07/01/20
+<p>Bem estou postando hoje a continuação de meus exercicios com python, 
+tive que parar devido a alguns problemas do cotidiano, mas já resolvi alguns exercicios,
+também desejo informar que eu já atualizei a maquina para trabalhar com o python 3.8, e
+estou trabalhando principalmente com listas, vetores, tulpas, etc.</p>
+
 
