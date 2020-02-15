@@ -1,21 +1,25 @@
-# Programs 
-Meus Programas Pessoais em todas as Linguagens.
+# Programs
+My Python Programming Exercises
 
-# Atuais Linguagens de Programação
-Python (3.7)
+## Current Python Version Used:
+~~Python (3.7)~~ 
 
-# Log
-15/05/19
-<p>Hoje é o meu primeiro registro de bordo desse repositorio, não achei 
-que iria levar isso muito a sério, mas as coisas aparentam estarem bem, 
-por mais que ja tenha escrito muito codigo anteriormente, estou fazendo 
-uma atualização com meus codigos novos do curso de python 3.7, 
-exercicios sobre controle de decisão.</p>
+Python (3.8)
 
-07/01/20
-<p>Bem estou postando hoje a continuação de meus exercicios com python, 
-tive que parar devido a alguns problemas do cotidiano, mas já resolvi alguns exercicios,
-também desejo informar que eu já atualizei a maquina para trabalhar com o python 3.8, e
-estou trabalhando principalmente com listas, vetores, tulpas, etc.</p>
+## Log
+**05/15/19**
 
+Today is my first board record of this repository, I didn't think I would take it too seriously, but things seem to be fine, even though I have written a lot of code before, I am doing an update with my new python course codes. 3.7, exercises on decision control.
+
+**01/01/2020**
+
+Well I am posting today the continuation of my exercises with python, I had to stop due to some problems of daily life, but I have already solved some exercises, I also want to inform you that I already updated the machine to work with python 3.8, and I am working mainly with lists , vectors, tulips, etc.
+
+**02/07/2020**
+
+It's been 1 month since I posted those exercise program additions, I must confess that I stopped due to my studies, however, today I am leaving it registered that I will continue the course and only go to when I finish it.
+
+**02/15/2020**
+
+Finally I finished the programming exercises on the types of collections.
 
