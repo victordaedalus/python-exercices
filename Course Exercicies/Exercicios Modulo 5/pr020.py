@@ -1,5 +1,7 @@
 """
-Fazer uma funcao que calcule o fatorial do numero (n)
+Fazer uma funcao que calcule o fatorial do numero (n) e mostre na tela.
+
+author:VictorDaedalus
 """
 
 
