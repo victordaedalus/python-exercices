@@ -10,3 +10,4 @@ if x <= 7 or y <= 7:
     print(f'A soma é igual a {soma}')
 else:
     print('Valores Invalidos.')
+

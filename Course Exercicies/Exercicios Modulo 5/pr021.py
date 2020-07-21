@@ -4,6 +4,7 @@ Funcao que conta quantos numeros primos exite ate o determinado vakor (num).
 author:VictorDaedalus
 """
 
+
 def prime_amount(num):
     count = 0
     for x in range(1, num + 1):

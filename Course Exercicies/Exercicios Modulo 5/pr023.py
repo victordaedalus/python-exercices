@@ -4,6 +4,7 @@ Criar uma funcao que mostra na tela um triangulo vertical.
 author:VictorDaedalus
 """
 
+
 def lateral_triangule(n):
     locker = True
     counter = 1
@@ -25,3 +26,4 @@ def lateral_triangule(n):
 
 
 lateral_triangule(10)
+
